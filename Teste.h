@@ -1,0 +1,9 @@
+#pragma once
+#include "Event.h";
+#include "Repository.h"
+#include "Service.h"
+#include "cassert"
+void test_entity();
+void test_repository();
+void test_service();
+void test_all();

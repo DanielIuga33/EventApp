@@ -1,0 +1,18 @@
+﻿  Event.cpp
+  main.cpp
+E:\_C++\Visual studio C++ projects\Lab11-12\Teste.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Repository.cpp
+  Service.cpp
+  Teste.cpp
+E:\_C++\Visual studio C++ projects\Lab11-12\Teste.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  UI.cpp
+  Validator.cpp
+E:\_C++\Visual studio C++ projects\Lab11-12\Validator.cpp(15,20): warning C4101: 'exc': unreferenced local variable
+E:\_C++\Visual studio C++ projects\Lab11-12\Validator.cpp(29,20): warning C4101: 'exc': unreferenced local variable
+E:\_C++\Visual studio C++ projects\Lab11-12\Validator.cpp(43,20): warning C4101: 'exc': unreferenced local variable
+E:\_C++\Visual studio C++ projects\Lab11-12\Validator.cpp(53,20): warning C4101: 'exc': unreferenced local variable
+E:\_C++\Visual studio C++ projects\Lab11-12\Validator.cpp(67,20): warning C4101: 'exc': unreferenced local variable
+  Generating Code...
+E:\_C++\Visual studio C++ projects\Lab11-12\Repository.cpp(97): warning C4715: 'Repository::find_by_name': not all control paths return a value
+E:\_C++\Visual studio C++ projects\Lab11-12\Repository.cpp(87): warning C4715: 'Repository::find': not all control paths return a value
+  Lab11-12.vcxproj -> E:\_C++\Visual studio C++ projects\Lab11-12\x64\Debug\Lab11-12.exe
